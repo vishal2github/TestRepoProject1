@@ -5,18 +5,18 @@
 }
 
 body {
-    background-color: #ccc;
+    background-color: rgb(74, 40, 40);
 }
 
 .container {
-    max-width: 900px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
 .apply_box {
-    max-width: 600px;
-    padding: 20px;
-    background-color: white;
+    max-width: 650px;
+    padding: 25px;
+    background-color: rgb(234, 209, 209);
     margin: 0 auto;
     margin-top: 50px;
     box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
